@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99629830623",
+    "firebase_url": "https://ripper-ab819.firebaseio.com",
+    "project_id": "ripper-ab819",
+    "storage_bucket": "ripper-ab819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99629830623:android:0249e9a85d8db56cc1346a",
+        "android_client_info": {
+          "package_name": "com.example.course_ripper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99629830623-8ihhp0q89rq0i799vthsnv394c5ebdff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4sZoXrBxlbZdTGtSZHkNQtleQRh_jds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99629830623-8ihhp0q89rq0i799vthsnv394c5ebdff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
